@@ -8,7 +8,9 @@
   },
   "extends": "eslint:recommended",
   "rules": {
-    "strict": 0
+    "strict": 0,
+    "semi": 2,
+    "no-var": 2,
   },
   "plugins": [
     "googleappsscript"
