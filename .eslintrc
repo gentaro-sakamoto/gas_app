@@ -14,5 +14,6 @@
   "globals": {
     Logger: false,
     YouTube: false,
+    LodashGS: false,
   },
 }
