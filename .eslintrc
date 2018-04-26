@@ -4,7 +4,6 @@
     "browser": true,
     "es6": true,
     "node": true,
-    "googleappsscript/googleappsscript": true
   },
   "extends": "eslint:recommended",
   "rules": {
@@ -12,7 +11,8 @@
     "semi": 2,
     "no-var": 2,
   },
-  "plugins": [
-    "googleappsscript"
-  ],
+  "globals": {
+    Logger: false,
+    YouTube: false,
+  },
 }
