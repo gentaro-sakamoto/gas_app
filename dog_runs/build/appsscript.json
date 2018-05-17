@@ -1,0 +1,20 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "enabledAdvancedServices": [{
+      "userSymbol": "Sheets",
+      "serviceId": "sheets",
+      "version": "v4"
+    }],
+    "libraries": [{
+      "userSymbol": "Sheetfu",
+      "libraryId": "1mONx8BnHcZUF1UbZZ5ZVCYt8xIRaFjVpmT6Qs1PZMAgYl6XVqeWsjBDi",
+      "version": "5"
+    }, {
+      "userSymbol": "LodashGS",
+      "libraryId": "1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW",
+      "version": "2"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
