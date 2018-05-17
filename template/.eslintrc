@@ -1,0 +1,27 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "strict": 0,
+    "semi": 2,
+    "no-var": 2,
+  },
+  "globals": {
+    Logger: false,
+    YouTube: false,
+    LodashGS: false,
+    Sheetfu: false,
+    SpreadsheetApp: false,
+    OAuth2: false,
+    PropertiesService: false,
+    Session: false,
+    HtmlService: false,
+    UrlFetchApp: false,
+    ScriptApp: false,
+  },
+}
