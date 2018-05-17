@@ -23,5 +23,6 @@
     HtmlService: false,
     UrlFetchApp: false,
     ScriptApp: false,
+    ContentService: false,
   },
 }

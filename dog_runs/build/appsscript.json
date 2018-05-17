@@ -16,5 +16,12 @@
       "version": "2"
     }]
   },
-  "exceptionLogging": "STACKDRIVER"
+  "webapp": {
+    "access": "MYSELF",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "executionApi": {
+    "access": "MYSELF"
+  }
 }
