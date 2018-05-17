@@ -15,5 +15,13 @@
     Logger: false,
     YouTube: false,
     LodashGS: false,
+    Sheetfu: false,
+    SpreadsheetApp: false,
+    OAuth2: false,
+    PropertiesService: false,
+    Session: false,
+    HtmlService: false,
+    UrlFetchApp: false,
+    ScriptApp: false,
   },
 }
