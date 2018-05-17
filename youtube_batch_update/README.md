@@ -5,7 +5,6 @@
 
 ### Setup
 ```
-cd youtube_batch_update/
 npm install
 ```
 
