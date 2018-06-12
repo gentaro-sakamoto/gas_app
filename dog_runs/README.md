@@ -5,7 +5,7 @@
 
 ### Setup
 ```
-cd youtube_batch_update/
+cd dog_runs/
 npm install
 ```
 
